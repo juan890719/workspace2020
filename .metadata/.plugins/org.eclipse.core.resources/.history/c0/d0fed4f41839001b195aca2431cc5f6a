@@ -1,0 +1,8 @@
+package com.tom;
+
+public class PkerCard {
+	int value;
+	char type;
+	int point;
+	public 
+}
